@@ -4,9 +4,7 @@ The project aims to optimize maintenance schedules for Hong Kong MTR's lifts and
 
 ### Features
 Predictive Maintenance: Uses machine learning to predict potential failures and schedule maintenance proactively.
-
 Data Integration: Combines IoT sensor data with historical maintenance records.
-
 Visualization: Provides clear visual representations of data and maintenance schedules using Power BI.
 
 ### Tools and Technologies
